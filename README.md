@@ -14,7 +14,7 @@
 - Reported bugs like incorrect formatting, AI suggestion label mismatch
 
 **Tools Used:** Manual, Click-Up, Regression
-**Sample Test Cases:** [Link to Google Drive or uploaded file]
+
 
 ---
 
@@ -23,13 +23,3 @@
 - Performed ADB log capture, functional and UI testing
 
 **Tools Used:** ADB, Real device testing  
-**Bug Report:** [bugs-esim.md]
-
----
-
-## 🐞 Sample Files
-
-- [bug-sample.md](bug-sample.md) - Example of real bug report  
-- [test-cases-resume-builder.xlsx](test-cases-resume-builder.xlsx) - Sample test cases  
-- [postman-api-tests.json](postman-api-tests.json) - Postman collection
-
